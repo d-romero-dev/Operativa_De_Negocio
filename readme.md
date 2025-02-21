@@ -1,6 +1,6 @@
 # Operativa de Negocio - Gestión de Ventas y Pagos
 
-Este es un proyecto de gestión operativa de un vivero, desarrollado con **Node.js** y **SQLite** (o PostgreSQL en Railway). Permite registrar clientes, ventas y pagos de manera sencilla a través de una interfaz web minimalista.
+Este es un proyecto de gestión operativa de un vivero, desarrollado con **Node.js** y **SQLite**. Permite registrar clientes, ventas y pagos de manera sencilla a través de una interfaz web minimalista.
 
 ## 🚀 Características
 
